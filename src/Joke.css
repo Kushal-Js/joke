@@ -1,0 +1,21 @@
+.header {
+    margin-top: 10px;
+    margin-bottom:0;
+}
+
+.jokeForm {
+    margin-bottom: 20px;
+}
+
+.listColor {
+    background-color: rgb(100, 237, 237);
+}
+
+.jokeBtn {
+    margin-top: 10px;
+}
+
+.jokeBox {
+    margin-left: 20px;
+    margin-right: 20px;
+}
